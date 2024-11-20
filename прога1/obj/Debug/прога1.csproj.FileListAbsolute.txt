@@ -1,0 +1,7 @@
+C:\Users\uum_c\source\repos\прога1\прога1\bin\Debug\прога1.exe.config
+C:\Users\uum_c\source\repos\прога1\прога1\bin\Debug\прога1.exe
+C:\Users\uum_c\source\repos\прога1\прога1\bin\Debug\прога1.pdb
+C:\Users\uum_c\source\repos\прога1\прога1\obj\Debug\прога1.csproj.AssemblyReference.cache
+C:\Users\uum_c\source\repos\прога1\прога1\obj\Debug\прога1.csproj.CoreCompileInputs.cache
+C:\Users\uum_c\source\repos\прога1\прога1\obj\Debug\прога1.exe
+C:\Users\uum_c\source\repos\прога1\прога1\obj\Debug\прога1.pdb
